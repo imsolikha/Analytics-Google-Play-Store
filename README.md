@@ -51,7 +51,7 @@ Run the cells to explore:
 
 The notebook includes clear and interactive bar charts that compare installation trends across content ratings and pricing types:
 
-![Sample Visualization](C:\Users\Acer\Pictures\Screenshots/sample-visualization.png)
+![Sample Visualization](https://github.com/imsolikha/Analytics-Google-Play-Store/blob/main/sample-visualization.png)
 
 ## Contributing 🤝
 
